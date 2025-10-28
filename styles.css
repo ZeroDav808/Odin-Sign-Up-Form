@@ -1,3 +1,7 @@
-body {
-    background-color: aqua;
+
+.rubik-header {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
